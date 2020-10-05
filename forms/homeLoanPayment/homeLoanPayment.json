@@ -34,15 +34,6 @@
         "forms",
         "homeLoanPayment",
         "Elements",
-        "inptHomeTime.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "homeLoanPayment",
-        "Elements",
         "btnBackHomeLoan.json"
       ]
     },
@@ -53,6 +44,42 @@
         "homeLoanPayment",
         "Elements",
         "lblHeader.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoanPayment",
+        "Elements",
+        "lblHomeAnswer.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoanPayment",
+        "Elements",
+        "inptHomeTime.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoanPayment",
+        "Elements",
+        "Button1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoanPayment",
+        "Elements",
+        "homeReset.json"
       ]
     }
   ],
